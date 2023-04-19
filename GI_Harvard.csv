@@ -1,0 +1,63 @@
+,Food,Glycemic Index,Category,gi
+2,White wheat bread*,75 ± 2,HIGH-CARB FOOD,75
+3,Whole wheat/whole meal bread,74 ± 2,HIGH-CARB FOOD,74
+4,Specialty grain bread,53 ± 2,HIGH-CARB FOOD,53
+5,Unleavened wheat bread,70 ± 5,HIGH-CARB FOOD,70
+6,Wheat roti,62 ± 3,HIGH-CARB FOOD,62
+7,Chapatti,52 ± 4,HIGH-CARB FOOD,52
+8,Corn tortilla,46 ± 4,HIGH-CARB FOOD,46
+9,"White rice, boiled*",73 ± 4,HIGH-CARB FOOD,73
+10,"Brown rice, boiled",68 ± 4,HIGH-CARB FOOD,68
+11,Barley,28 ± 2,HIGH-CARB FOOD,28
+12,Sweet corn,52 ± 5,HIGH-CARB FOOD,52
+13,"Spaghetti, white",49 ± 2,HIGH-CARB FOOD,49
+14,"Spaghetti, whole meal",48 ± 5,HIGH-CARB FOOD,48
+15,Rice noodles†,53 ± 7,HIGH-CARB FOOD,53
+16,Udon noodles,55 ± 7,HIGH-CARB FOOD,55
+17,Couscous†,65 ± 4,HIGH-CARB FOOD,65
+20,Cornflakes,81 ± 6,BREAKFAST CEREALS,81
+21,Wheat flake biscuits,69 ± 2,BREAKFAST CEREALS,69
+22,"Porridge, rolled oats",55 ± 2,BREAKFAST CEREALS,55
+23,Instant oat porridge,79 ± 3,BREAKFAST CEREALS,79
+24,Rice porridge/congee,78 ± 9,BREAKFAST CEREALS,78
+25,Millet porridge,67 ± 5,BREAKFAST CEREALS,67
+26,Muesli,57 ± 2,BREAKFAST CEREALS,57
+29,"Apple, raw†",36 ± 2,FRUIT AND FRUIT PRODUCTS,36
+30,"Orange, raw†",43 ± 3,FRUIT AND FRUIT PRODUCTS,43
+31,"Banana, raw†",51 ± 3,FRUIT AND FRUIT PRODUCTS,51
+32,"Pineapple, raw",59 ± 8,FRUIT AND FRUIT PRODUCTS,59
+33,"Mango, raw†",51 ± 5,FRUIT AND FRUIT PRODUCTS,51
+34,"Watermelon, raw",76 ± 4,FRUIT AND FRUIT PRODUCTS,76
+35,"Dates, raw",42 ± 4,FRUIT AND FRUIT PRODUCTS,42
+36,"Peaches, canned†",43 ± 5,FRUIT AND FRUIT PRODUCTS,43
+37,Strawberry jam/jelly,49 ± 3,FRUIT AND FRUIT PRODUCTS,49
+38,Apple juice,41 ± 2,FRUIT AND FRUIT PRODUCTS,41
+39,Orange juice,50 ± 2,FRUIT AND FRUIT PRODUCTS,50
+42,"Potato, boiled",78 ± 4,VEGETABLES,78
+43,"Potato, instant mash",87 ± 3,VEGETABLES,87
+44,"Potato, french fries",63 ± 5,VEGETABLES,63
+45,"Carrots, boiled",39 ± 4,VEGETABLES,39
+46,"Sweet potato, boiled",63 ± 6,VEGETABLES,63
+47,"Pumpkin, boiled",64 ± 7,VEGETABLES,64
+48,Plantain/green banana,55 ± 6,VEGETABLES,55
+49,"Taro, boiled",53 ± 2,VEGETABLES,53
+50,Vegetable soup,48 ± 5,VEGETABLES,48
+53,"Milk, full fat",39 ± 3,DAIRY PRODUCTS AND ALTERNATIVES,39
+54,"Milk, skim",37 ± 4,DAIRY PRODUCTS AND ALTERNATIVES,37
+55,Ice cream,51 ± 3,DAIRY PRODUCTS AND ALTERNATIVES,51
+56,"Yogurt, fruit",41 ± 2,DAIRY PRODUCTS AND ALTERNATIVES,41
+57,Soy milk,34 ± 4,DAIRY PRODUCTS AND ALTERNATIVES,34
+58,Rice milk,86 ± 7,DAIRY PRODUCTS AND ALTERNATIVES,86
+61,Chickpeas,28 ± 9,LEGUMS,28
+62,Kidney beans,24 ± 4,LEGUMS,24
+63,Lentils,32 ± 5,LEGUMS,32
+64,Soya beans,16 ± 1,LEGUMS,16
+67,Chocolate,40 ± 3,SNACK PRODUCTS,40
+68,Popcorn,65 ± 5,SNACK PRODUCTS,65
+69,Potato crisps,56 ± 3,SNACK PRODUCTS,56
+70,Soft drink/soda,59 ± 3,SNACK PRODUCTS,59
+71,Rice crackers/crisps,87 ± 2,SNACK PRODUCTS,87
+74,Fructose,15 ± 4,SUGARS,15
+75,Sucrose,65 ± 4,SUGARS,65
+76,Glucose,103 ± 3,SUGARS,103
+77,Honey,61 ± 3,SUGARS,61
