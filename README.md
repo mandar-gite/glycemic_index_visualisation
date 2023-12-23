@@ -1,7 +1,7 @@
-This is a fork of [Glyvemic Index Visualisation by Mandar Gite](https://github.com/mandar-gite/glycemic_index_visualisation)
+This is a fork of [Glycemic Index Visualisation by Mandar Gite](https://github.com/mandar-gite/glycemic_index_visualisation)
 
 
-# Visualisation of Glycemic Index 
+# Glycemic Index Visualisation
 
 The glycemic_index_analysis.py script contains the following functionality:
 
