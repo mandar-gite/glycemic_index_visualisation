@@ -1,16 +1,16 @@
-This is a fork https://github.com/mandar-gite/glycemic_index_visualisation
-
+This is a fork of https://github.com/mandar-gite/glycemic_index_visualisation
 
 # Visualisation of Glycemic Index 
 
 This repository contains a Python script that analyzes the glycemic index and glycemic load of various foods. The script accesses data from a webpage using Pandas, cleans the data, and creates several plots using Matplotlib and Seaborn.
-Requirements
 
-    Python 3.6 or higher
-    Pandas
-    Seaborn
-    Matplotlib
-    notebook
+Requirements:
+
+- Python 3.6 or higher
+- Pandas (Python library for data manipulation and analysis)
+- Seaborn (Python data visualization library for creating attractive and informative statistical graphics)
+- Matplotlib (Python library for creating static, animated, and interactive visualizations in various formats)
+- Jypyter Notebook (Open-source web application that allows you to create and share documents containing live code, equations, visualizations, and narrative text)
     
 
 ### Installation
@@ -35,7 +35,7 @@ then
 
 -------
 
-Install the required packages using pip:
+Install Pandas Seaborn Matplotlib and Jupyter using pip:
 
 `pip install pandas seaborn matplotlib notebook`
 
