@@ -54,7 +54,8 @@ Install Pandas Seaborn Matplotlib and Jupyter using pip:
 
 ### Usage
 
-In terminal, from project directory:
+From terminal, in project directory, run:
+
 `jupiter notebook`
 
 Jupyter Notebook is then opened in browser at http://localhost:8888
