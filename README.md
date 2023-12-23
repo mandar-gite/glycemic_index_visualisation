@@ -21,6 +21,7 @@ Accesses data from a webpage using Pandas.
 - Matplotlib [Python library for creating static, animated, and interactive visualizations in various formats](https://matplotlib.org/)
 - Jypyter Notebook [Open-source web application that allows you to create and share documents containing live code, equations, visualizations, and narrative text](https://jupyter.org/)
     
+-------
 
 ### Installation 
 #### From Terminal
@@ -33,7 +34,7 @@ then
 
 `cd glycemic_index_visualisation`
 
--------
+
 
 Create a Python Virtual Environment in the folder:
 
@@ -43,16 +44,17 @@ then
 
 `Source .venv/bin/activate`
 
--------
+
 
 Install Pandas Seaborn Matplotlib and Jupyter using pip:
 
 `pip install pandas seaborn matplotlib notebook`
 
+-------
 
 ### Usage
 
-In project directory:
+In terminal, from project directory:
 `jupiter notebook`
 
 Jupyter Notebook is then opened in browser at http://localhost:8888
