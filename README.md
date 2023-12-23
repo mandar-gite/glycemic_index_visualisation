@@ -1,16 +1,25 @@
-This is a fork of https://github.com/mandar-gite/glycemic_index_visualisation
+This is a fork of [Glyvemic Index Visualisation by Mandar Gite](https://github.com/mandar-gite/glycemic_index_visualisation)
+
 
 # Visualisation of Glycemic Index 
 
-This repository contains a Python script that analyzes the glycemic index and glycemic load of various foods. The script accesses data from a webpage using Pandas, cleans the data, and creates several plots using Matplotlib and Seaborn.
+The glycemic_index_analysis.py script contains the following functionality:
 
-Requirements:
+Accesses data from a webpage using Pandas.
+- Cleans the data by resetting the index, deleting rows without glycemic index values, and removing the first and last rows of the dataframe.
+- Creates several plots using Matplotlib and Seaborn:
+     - Bar plot of the top 10 foods with the highest glycemic index values.
+     - Bar plot of the bottom 10 foods with the lowest glycemic index values.
+     - Scatter plot of the glycemic index vs. glycemic load for all foods.
+     - Bar plot of the top and bottom two fruits by glycemic index.
+
+## Requirements:
 
 - Python 3.6 or higher
-- Pandas (Python library for data manipulation and analysis)
-- Seaborn (Python data visualization library for creating attractive and informative statistical graphics)
-- Matplotlib (Python library for creating static, animated, and interactive visualizations in various formats)
-- Jypyter Notebook (Open-source web application that allows you to create and share documents containing live code, equations, visualizations, and narrative text)
+- Pandas [Python library for data manipulation and analysis](https://pandas.pydata.org/)
+- Seaborn [Python data visualization library for creating attractive and informative statistical graphics](https://seaborn.pydata.org/)
+- Matplotlib [Python library for creating static, animated, and interactive visualizations in various formats](https://matplotlib.org/)
+- Jypyter Notebook [Open-source web application that allows you to create and share documents containing live code, equations, visualizations, and narrative text](https://jupyter.org/)
     
 
 ### Installation
@@ -39,19 +48,14 @@ Install Pandas Seaborn Matplotlib and Jupyter using pip:
 
 `pip install pandas seaborn matplotlib notebook`
 
- -------
 
 ### Usage
 
-The glycemic_index_analysis.py script contains the following functionality:
+In project directory:
+`jupiter notebook`
 
-Accesses data from a webpage using Pandas.
-- Cleans the data by resetting the index, deleting rows without glycemic index values, and removing the first and last rows of the dataframe.
-- Creates several plots using Matplotlib and Seaborn:
-     - Bar plot of the top 10 foods with the highest glycemic index values.
-     - Bar plot of the bottom 10 foods with the lowest glycemic index values.
-     - Scatter plot of the glycemic index vs. glycemic load for all foods.
-     - Bar plot of the top and bottom two fruits by glycemic index.
+Jupyter Notebook is then opened in browser at http://localhost:8888
+
 
 ### Contributing
 
