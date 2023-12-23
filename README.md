@@ -1,3 +1,6 @@
+This is a fork https://github.com/mandar-gite/glycemic_index_visualisation
+
+
 # Visualisation of Glycemic Index 
 
 This repository contains a Python script that analyzes the glycemic index and glycemic load of various foods. The script accesses data from a webpage using Pandas, cleans the data, and creates several plots using Matplotlib and Seaborn.
