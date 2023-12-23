@@ -22,7 +22,8 @@ Accesses data from a webpage using Pandas.
 - Jypyter Notebook [Open-source web application that allows you to create and share documents containing live code, equations, visualizations, and narrative text](https://jupyter.org/)
     
 
-### Installation
+### Installation 
+#### From Terminal
 
 Clone this repository into a folder of your choice:
 
