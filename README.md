@@ -7,13 +7,36 @@ Requirements
     Pandas
     Seaborn
     Matplotlib
+    notebook
+    
 
 ### Installation
 
-Clone this repository to your local machine.Install the required packages using pip:
+Clone this repository into a folder of your choice:
 
-`pip install pandas seaborn matplotlib `
- 
+`git clone github.com/generallynonsensical/glycemic_index_visualisation`
+
+then
+
+`cd glycemic_index_visualisation`
+
+-------
+
+Create a Python Virtual Environment in the folder:
+
+`python3 -m venv .venv`
+
+then
+
+`Source .venv/bin/activate`
+
+-------
+
+Install the required packages using pip:
+
+`pip install pandas seaborn matplotlib notebook`
+
+ -------
 
 ### Usage
 
