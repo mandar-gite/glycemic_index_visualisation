@@ -1,21 +1,7 @@
-# Visualisation of Glycemic Index 
+This is a fork of [Glycemic Index Visualisation by Mandar Gite](https://github.com/mandar-gite/glycemic_index_visualisation)
 
-This repository contains a Python script that analyzes the glycemic index and glycemic load of various foods. The script accesses data from a webpage using Pandas, cleans the data, and creates several plots using Matplotlib and Seaborn.
-Requirements
 
-    Python 3.6 or higher
-    Pandas
-    Seaborn
-    Matplotlib
-
-### Installation
-
-Clone this repository to your local machine.Install the required packages using pip:
-
-`pip install pandas seaborn matplotlib `
- 
-
-### Usage
+# Glycemic Index Visualisation
 
 The glycemic_index_analysis.py script contains the following functionality:
 
@@ -26,6 +12,54 @@ Accesses data from a webpage using Pandas.
      - Bar plot of the bottom 10 foods with the lowest glycemic index values.
      - Scatter plot of the glycemic index vs. glycemic load for all foods.
      - Bar plot of the top and bottom two fruits by glycemic index.
+
+## Requirements:
+
+- Python 3.6 or higher
+- Pandas [Python library for data manipulation and analysis](https://pandas.pydata.org/)
+- Seaborn [Python data visualization library for creating attractive and informative statistical graphics](https://seaborn.pydata.org/)
+- Matplotlib [Python library for creating static, animated, and interactive visualizations in various formats](https://matplotlib.org/)
+- Jypyter Notebook [Open-source web application that allows you to create and share documents containing live code, equations, visualizations, and narrative text](https://jupyter.org/)
+    
+-------
+
+### Installation 
+#### From Terminal
+
+Clone this repository into a folder of your choice:
+
+`git clone github.com/generallynonsensical/glycemic_index_visualisation`
+
+then
+
+`cd glycemic_index_visualisation`
+
+
+
+Create a Python Virtual Environment in the folder:
+
+`python3 -m venv .venv`
+
+then
+
+`Source .venv/bin/activate`
+
+
+
+Install Pandas Seaborn Matplotlib and Jupyter using pip:
+
+`pip install pandas seaborn matplotlib notebook`
+
+-------
+
+### Usage
+
+From terminal, in project directory, run:
+
+`jupiter notebook`
+
+Jupyter Notebook is then opened in browser at http://localhost:8888
+
 
 ### Contributing
 
